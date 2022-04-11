@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7416a601a736d21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40ca726d4e69880",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Science/Chemistry/Paper 1/Atoms/Atoms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf14974f10a7bbf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c9ff6153298f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad3661c1f79e719",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d1fd2499c05d4e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b565f8c0226878f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcf0a684e3202a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedaa0de14ff1f84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Science/Chemistry/Paper 1/Atoms/Atoms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b40ca726d4e69880",
+  "lastOpenFiles": [
+    "Science/Chemistry/Paper 1/Atoms/Atoms.md",
+    "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
+    "Science/Chemistry/Paper 1/Bonding/Covelent Bonds.md",
+    "Science/Chemistry/Paper 1/Untitled.md",
+    "Science/Chemistry/Paper 1/Bonding.md",
+    "Science/Chemistry/Paper 1/Atoms/Chemical Symbols.md",
+    "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
+    "Science/Chemistry/Paper 1/Atoms/Chemical Symbols PNG.png",
+    "Science/Chemistry/Paper 1/Atoms/Periodic Table PNG.png",
+    "README.md"
+  ]
+}
