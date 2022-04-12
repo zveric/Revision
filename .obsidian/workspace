@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Henry/Wolsey/Domestic policy.md",
+                "file": "History/Henry/Wolsey/Foreign policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Henry/Wolsey/Domestic policy.md",
+                "file": "History/Henry/Wolsey/Foreign policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Henry/Wolsey/Domestic policy.md",
+                "file": "History/Henry/Wolsey/Foreign policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,7 @@
   },
   "active": "019b679426da5c5b",
   "lastOpenFiles": [
+    "History/Henry/Wolsey/Foreign policy.md",
     "History/Henry/Wolsey/Domestic policy.md",
     "History/Henry/Wolsey/Wolsey's Rise to Power.md",
     "History/Henry/Henry's Personality.md",
@@ -143,7 +144,6 @@
     "Science/Chemistry/Paper 1/Atoms/Separation Techniques.md",
     "Science/Chemistry/Paper 1/Atoms/Chemical Symbols.md",
     "Science/Chemistry/Paper 1/Atoms/Atoms.md",
-    "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
-    "History/Henry/Features of Henry's goverment.md"
+    "Science/Chemistry/Paper 1/Atoms/Periodic Table.md"
   ]
 }
