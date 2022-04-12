@@ -7,3 +7,5 @@
 ### Enclosure
 - Land owners had been fencing off common land to graze their animals
 - This had a negative affect on poorer people as they no longer had space to rear animals for food. 
+- As wolsey 'had humble beginings' (See: [[Wolsey's Rise to Power]] ) he helped these stuggling people by setting up a court to protest such matters.
+- It failed due to the rich people becomeing unhappy with the idea

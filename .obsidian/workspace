@@ -23,8 +23,12 @@
             "id": "019b679426da5c5b",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Henry/Wolsey/Domestic policy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -84,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Henry/Wolsey/Wolsey's Rise to Power.md",
+                "file": "History/Henry/Wolsey/Domestic policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +105,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Henry/Wolsey/Wolsey's Rise to Power.md",
+                "file": "History/Henry/Wolsey/Domestic policy.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -132,10 +136,10 @@
     "direction": "horizontal",
     "width": 526
   },
-  "active": "d0b2f482d256a874",
+  "active": "019b679426da5c5b",
   "lastOpenFiles": [
-    "History/Henry/Wolsey/Wolsey's Rise to Power.md",
     "History/Henry/Wolsey/Domestic policy.md",
+    "History/Henry/Wolsey/Wolsey's Rise to Power.md",
     "History/Henry/Henry's Personality.md",
     "Science/Chemistry/Paper 1/Bonding/Covelent Bonds.md",
     "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
