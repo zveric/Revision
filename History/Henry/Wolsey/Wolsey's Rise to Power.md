@@ -1,3 +1,6 @@
+Wolsey had humble beginings and unusually for the time climbed the ranks to become the kings advisor.
+
+
 ### Organisation 
 - Henry hated the day to day running of goverment. Wolsey exelled at carrying out the mundane task that Henry wanted to avoid.
 - Henry didnt like his fathers advisors and therefore removed many of wolseys rivals

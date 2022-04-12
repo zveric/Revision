@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Henry/Henry's Personality.md",
+                "file": "History/Henry/Wolsey/Wolsey's Rise to Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Henry/Henry's Personality.md",
+                "file": "History/Henry/Wolsey/Wolsey's Rise to Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Henry/Henry's Personality.md",
+                "file": "History/Henry/Wolsey/Wolsey's Rise to Power.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,15 +134,15 @@
   },
   "active": "d0b2f482d256a874",
   "lastOpenFiles": [
+    "History/Henry/Wolsey/Wolsey's Rise to Power.md",
+    "History/Henry/Wolsey/Domestic policy.md",
     "History/Henry/Henry's Personality.md",
-    "History/Henry/Features of Henrys goverment.md",
-    "History/Henry/Wolsey/Rise to Power.md",
-    "History/Henry/Cromwell/Rise to Power.md",
-    "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
     "Science/Chemistry/Paper 1/Bonding/Covelent Bonds.md",
-    "Untitled.md",
-    "History/Henry/Features of Henry's Government/Untitled.md",
+    "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
+    "Science/Chemistry/Paper 1/Atoms/Separation Techniques.md",
+    "Science/Chemistry/Paper 1/Atoms/Chemical Symbols.md",
+    "Science/Chemistry/Paper 1/Atoms/Atoms.md",
     "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
-    "Science/Chemistry/Paper 1/Atoms/Atoms.md"
+    "History/Henry/Features of Henry's goverment.md"
   ]
 }
