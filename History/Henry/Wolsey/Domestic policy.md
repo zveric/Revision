@@ -11,3 +11,9 @@
 - It failed due to the rich people becoming unhappy with the idea
 
 ### The Elthlam Ordinances
+- Rules to keep Henry's palaces clean
+- Reduce the Privy Chamber (See [[Features of Henry's goverment]]) to remove some of his rivals
+
+### Justice
+- Wolsey recognised that the justice system was flawed,slow and favored the rich. 
+- He strengthened the court of the star chamber (Which was responsible for the justice system)
