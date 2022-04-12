@@ -1,3 +1,6 @@
+#science
+
+
 - Ionic bonding is when a metal and a non metal bond through shared electrons.
 - The metal donates electrons and the non metal accepts the electrons.
 - The overall charge must remain 0

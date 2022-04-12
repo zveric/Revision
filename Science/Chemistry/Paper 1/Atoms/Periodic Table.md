@@ -1,4 +1,6 @@
-The Periodic table is set out with metals on the right and non-metals on the left. It is split into periods and groups. Each period (Horisontal) repersents a new electron shell and each group (Vertical) shows the number of electrons in the outer shell
+The Periodic table is set out with metals on the right and non-metals on the left. 
+It is split into periods and groups. 
+Each period (Horisontal) repersents a new electron shell and each group (Vertical) shows the number of electrons in the outer shell
 ![[Periodic Table PNG.png]]
 
 
