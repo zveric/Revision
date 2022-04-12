@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Henry/Features of Henrys goverment.md",
+                "file": "History/Henry/Henry's Personality.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Henry/Features of Henrys goverment.md",
+                "file": "History/Henry/Henry's Personality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Henry/Features of Henrys goverment.md",
+                "file": "History/Henry/Henry's Personality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +135,7 @@
   },
   "active": "d0b2f482d256a874",
   "lastOpenFiles": [
+    "History/Henry/Henry's Personality.md",
     "History/Henry/Features of Henrys goverment.md",
     "History/Henry/Wolsey/Rise to Power.md",
     "History/Henry/Cromwell/Rise to Power.md",
@@ -143,7 +144,6 @@
     "Untitled.md",
     "History/Henry/Features of Henry's Government/Untitled.md",
     "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
-    "Science/Chemistry/Paper 1/Atoms/Atoms.md",
-    "Science/Chemistry/Paper 1/Atoms/Separation Techniques.md"
+    "Science/Chemistry/Paper 1/Atoms/Atoms.md"
   ]
 }
