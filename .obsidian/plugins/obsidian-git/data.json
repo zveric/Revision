@@ -12,7 +12,7 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "gitPath": "",
+  "gitPath": "https://github.com/zveric/Revision.git",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
