@@ -102,13 +102,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "2c25346f12f19a05",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "d0b2f482d256a874",
   "lastOpenFiles": [
