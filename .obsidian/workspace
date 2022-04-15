@@ -7,8 +7,12 @@
         "id": "019b679426da5c5b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +120,7 @@
   },
   "active": "019b679426da5c5b",
   "lastOpenFiles": [
+    "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
     "Science Advance Info/Foundation Combined Science/Combined Science Biology Foundation (Paper 1).pdf",
     "Science Advance Info/Foundation Combined Science/Combined Science Chemistry Foundation (Paper 2).pdf",
     "Science Advance Info/Higher Combined Science/Combined Science Biology Higher (Paper 1).pdf",
@@ -122,7 +129,6 @@
     "History/Henry/Wolsey/Foreign policy.md",
     "History/Henry/Henry's Personality.md",
     "History/Henry/Cromwell/Cromwell's Rise to Power.md",
-    "History/Henry/Wolsey/Wolsey's Rise to Power.md",
-    "History/Henry/Wolsey/Domestic policy.md"
+    "History/Henry/Wolsey/Wolsey's Rise to Power.md"
   ]
 }

@@ -4,6 +4,8 @@
 - These ions often form lattices (grids of ions) so crysals are formed.
 - High melting + boiling points
 - Conducts electricity when moltenor in a solution as ions are free to move
+- -ide is used for compounds with 2 elements.
+- -ate is used for compounds with 3+ elements that include oxygen.
 
 ### Example:
 - Magnesium Chloride = Mg<sup>2+</sup> + Cl<sup>-</sup> --> MgCl<sup>2</sup>
