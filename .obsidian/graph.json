@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:History",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6989606412938216,
-  "close": false
+  "scale": 0.6989606412938203,
+  "close": true
 }

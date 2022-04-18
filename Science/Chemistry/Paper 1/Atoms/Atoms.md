@@ -1,11 +1,8 @@
 ## Atoms:
 
--   Atoms cant be broken down into constituents through chemical means
-    
--   Elements are substances made from a single type of atom
-    
--   Compounds are two or more elements that are chemically bonded
-    
+- Atoms cant be broken down into constituents through chemical means
+- Elements are substances made from a single type of atom
+- ompounds are two or more elements that are chemically bonded
 
 
 ### Atomic structure:
