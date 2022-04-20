@@ -11,4 +11,4 @@
 - Large ego
 - Didnt want to get involved in the day to day running of goverment
 - He wanted war
-- He liked high risk activitiess
+- He liked high risk activities
