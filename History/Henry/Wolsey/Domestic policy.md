@@ -4,7 +4,7 @@
 - Subsidies were added to the Direct taxation already present
 - Taxation was unpopular and didn't compete with Henry's spending
 #### The Amicable Grant
-- Henry wanted to invade france while it was weak
+- Henry wanted to invade france while it was weak.
 - The Amicable grant aimed to rase money for this war quickly.
 - It demanded that preists pay 1/3 of their income and everyone else paid 1/6 of their income towards the war effort.
 - It failed massively asd people didnt want to pay.
