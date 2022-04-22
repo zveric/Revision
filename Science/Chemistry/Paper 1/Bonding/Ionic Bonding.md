@@ -1,4 +1,5 @@
 - Ionic bonding is when a metal and a non metal bond through shared electrons.
+- This is the most common type of bonding that metals are part of.
 - The metal donates electrons and the non metal accepts the electrons.
 - The overall charge must remain 0
 
