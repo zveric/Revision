@@ -1,5 +1,7 @@
 - A covelent bond is formed when a pair of electrons is shared between two atoms. Unlike [[Ionic Bonding]] witch swaps electrons.
 - Covelent bonding creates molicules
+- No of electrons needed = Number of bonds created
+- 
 ### Properties
 - Low melting points
 - Low boiling points 
