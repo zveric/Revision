@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "019b679426da5c5b",
+        "id": "ff11b9fe9707a492",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": "History/Henry/Henry's Personality.md",
-            "staged": false
+            "file": "History/Henry/Wolsey/Domestic policy.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Henry/Wolsey/Domestic policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Henry/Wolsey/Domestic policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +104,7 @@
             }
           },
           {
-            "id": "9ce7eea63964b01d",
+            "id": "f54b3405ebdde930",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -115,17 +118,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "019b679426da5c5b",
+  "active": "ff11b9fe9707a492",
   "lastOpenFiles": [
+    "History/Henry/Wolsey/Domestic policy.md",
+    "History/Henry/Henry's Personality.md",
+    "History/Henry/Cromwell/Cromwell's Rise to Power.md",
     "Science/Chemistry/Paper 1/Bonding/Covelent Bonds.md",
     "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
     "README.md",
     "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
     "Science/Chemistry/Paper 1/Atoms/Chemical Symbols.md",
     "Science/Chemistry/Paper 1/Atoms/Separation Techniques.md",
-    "Science/Chemistry/Paper 1/Atoms/Atoms.md",
-    "Science Advance Info/Foundation Combined Science/Combined Science Biology Foundation (Paper 1).pdf",
-    "Science Advance Info/Foundation Combined Science/Combined Science Chemistry Foundation (Paper 2).pdf",
-    "Science Advance Info/Higher Combined Science/Combined Science Biology Higher (Paper 1).pdf"
+    "Science/Chemistry/Paper 1/Atoms/Atoms.md"
   ]
 }
