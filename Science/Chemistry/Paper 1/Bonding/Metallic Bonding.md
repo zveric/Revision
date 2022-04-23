@@ -1,0 +1,2 @@
+- Atoms form a lattice of ions surrounded by moving delocolised electrons.
+- Can conduct electricity

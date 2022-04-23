@@ -4,7 +4,7 @@ Each period (Horisontal) repersents a new electron shell and each group (Vertica
 ![[Periodic Table PNG.png]]
 
 
-
+## Parts of the table
 
 ### Alkali Metals (Group 1): 
 - Get more reactive as you travel down the group due to outer electron being further from the nucleus.
@@ -17,3 +17,9 @@ Each period (Horisontal) repersents a new electron shell and each group (Vertica
 
 ### Noble Gases (Group 8/0)
 - Unreactive due to full outer shell of electrons
+
+## History
+- Dalton put elements in 'weight' order
+- Newlands put elements with similar properties together
+- Mendeleev put elements in columns and rows
+
