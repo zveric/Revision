@@ -1,2 +1,2 @@
-- Atoms form a lattice of ions surrounded by moving delocolised electrons.
+- Atoms form a lattice of ions surrounded by moving delocalize electrons.
 - Can conduct electricity
