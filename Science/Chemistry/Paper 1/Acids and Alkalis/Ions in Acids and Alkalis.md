@@ -3,7 +3,7 @@
 
 ## Strengths of Acid
 
-- Strong acids dissociate / ionise completely, producing mor H<sup>+</sup> ions
+- Strong acids dissociate / ionise completely, producing more H<sup>+</sup> ions
 - Strong Acids have lower pHs (0,2)
 - Weak Acids
 
