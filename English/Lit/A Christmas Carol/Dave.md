@@ -7,3 +7,5 @@
 'all in a glow'
 'so heated himself'
 'giddy as a school boy'
+'whats merry christmas to you but a time for paying bills without money'
+'humbug'
