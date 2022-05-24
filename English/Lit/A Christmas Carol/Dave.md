@@ -5,4 +5,5 @@
 'carried his own frosty rime about him'
 
 'all in a glow'
-'so heated himself
+'so heated himself'
+'giddy as a school boy'
