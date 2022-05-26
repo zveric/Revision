@@ -7,9 +7,11 @@
         "id": "ff11b9fe9707a492",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Science/Computer Science/Computer systems.pdf"
+            "file": "Science/Chemistry/Paper 1/Electrolytic Processes/Electrolysis.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Computer Science/Computer systems.pdf",
+                "file": "Science/Chemistry/Paper 1/Electrolytic Processes/Electrolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Computer Science/Computer systems.pdf",
+                "file": "Science/Chemistry/Paper 1/Electrolytic Processes/Electrolysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +120,15 @@
   },
   "active": "ff11b9fe9707a492",
   "lastOpenFiles": [
+    "Science/Chemistry/Paper 1/Electrolytic Processes/Electrolysis.md",
+    "Science/Chemistry/Paper 1/Atoms/Periodic Table.md",
+    "Science/Chemistry/Paper 1/Atoms/Chemical Symbols.md",
     "Science/Computer Science/Computer systems.pdf",
     "Science/Chemistry/Paper 1/Bonding/Ionic Bonding.md",
     "Science/Chemistry/Paper 1/Bonding/Metallic Bonding.md",
     "Science/Chemistry/Paper 1/Acids and Alkalis/Ions in Acids and Alkalis.md",
     "Science/Chemistry/Paper 1/Acids and Alkalis/Indicators.md",
     "Science/Biology/Clasification.md",
-    "History/Medicine/Medicine Q Paper 2021.pdf",
-    "History/Medicine/Printing Press Question.md",
-    "Science/Chemistry/Paper 1/Calculations involving masses/Empirical Formula.md",
-    "Science/Chemistry/Paper 1/Calculations involving masses/Moles.md"
+    "History/Medicine/Medicine Q Paper 2021.pdf"
   ]
 }
